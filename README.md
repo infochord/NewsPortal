@@ -1,4 +1,4 @@
 # NewsPortal
 NewsPortal Project
 <br>
-Author : Ravi Shankar Kumar
+Author : Ravi Shankar Kumar - Infochord
